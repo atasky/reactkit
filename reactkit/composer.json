@@ -1,0 +1,10 @@
+{
+    "name": "frozzare/reactkit",
+    "description": "PHP library that renders React components on the server",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "autoload": {
+      "classmap": ["src"]
+    }
+}
